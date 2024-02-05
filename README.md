@@ -3,3 +3,4 @@ new things
 
 checking featch and mearge and pull 
 
+again making changes 
